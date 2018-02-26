@@ -1,9 +1,13 @@
-{"name": "keymap-control",
- "main": "./lib/keymap-control",
- "version": "1.0.0",
- "description": "Automatically remove keybindings that overlap with user defined keybindings in keymap.cson",
- "keywords": [],
- "repository": "https://github.com/hanslivingstone/keymap-control",
- "license": "MIT",
- "engines": {"atom": ">=1.0.0 <2.0.0"},
- "dependencies": {}}
+{
+  "name": "keymap-control",
+  "main": "./lib/keymap-control",
+  "version": "1.1.0",
+  "description": "Automatically remove keybindings that overlap with user defined keybindings in keymap.cson",
+  "keywords": [],
+  "repository": "https://github.com/hanslivingstone/keymap-control",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
